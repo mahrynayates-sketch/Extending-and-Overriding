@@ -1,0 +1,14 @@
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\bin\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.exe
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\bin\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.deps.json
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\bin\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.runtimeconfig.json
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\bin\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.dll
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\bin\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.pdb
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.AssemblyInfoInputs.cache
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.AssemblyInfo.cs
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.csproj.CoreCompileInputs.cache
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.dll
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\refint\Mahryna_Yates_5.4PA_Extending&Overriding.dll
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.pdb
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\Mahryna_Yates_5.4PA_Extending&Overriding.genruntimeconfig.cache
+C:\Users\mahry\OneDrive\Documents\Classes WordDocuments\SDC220\Mahryna_Yates_5.4PA_Extending&Overriding\obj\Debug\net10.0\ref\Mahryna_Yates_5.4PA_Extending&Overriding.dll

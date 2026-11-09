@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Mahryna_Yates_5.4PA_Extending&Overriding/1.0.0": {
+        "runtime": {
+          "Mahryna_Yates_5.4PA_Extending&Overriding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mahryna_Yates_5.4PA_Extending&Overriding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
